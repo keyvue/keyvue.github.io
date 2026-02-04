@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /assets/
+Allow: /
+
+Sitemap: https://www.txeet.com/sitemap.xml
